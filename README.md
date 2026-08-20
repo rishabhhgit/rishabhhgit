@@ -54,23 +54,5 @@ I like problems where geography, real-time data, and system design collide. Give
 
 **Scalable E-Commerce Platform** — full order lifecycle, payments via Razorpay, and a backend hardened against XSS and NoSQL injection, with indexing and caching to keep it fast under load.
 
-> More on my [GitHub](https://github.com/rishabhhgit) — always shipping something new.
 
----
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhhgit&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhgit&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhhgit&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Always down to talk maps, systems design, or a good DSA problem.*
-
-</div>
