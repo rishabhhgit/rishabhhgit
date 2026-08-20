@@ -76,7 +76,26 @@ I like problems where real-time data, AI, and system design collide. Give me a l
 **[Distributed Banking Backend](https://github.com/rishabhhgit/banking-wallet-mvp)** — a ledger system built like it actually has to hold money: ACID transactions, serializable isolation, row-level locking, JWT + refresh rotation, TOTP 2FA, and an event-driven pipeline for audit logging and fraud monitoring.
 `TypeScript · Node.js · PostgreSQL · Prisma · Redis · BullMQ`
 
-**[Scalable E-Commerce Platform**]()** — full order lifecycle, payments via Razorpay, and a backend hardened against XSS and NoSQL injection, with indexing and caching to keep it fast under load.
+**[Scalable E-Commerce Platform](https://github.com/rishabhhgit/scalable-e-commerce-backend)** — full order lifecycle, payments via Razorpay, and a backend hardened against XSS and NoSQL injection, with indexing and caching to keep it fast under load.
 `React · Node.js · Express · MongoDB · Redis · Razorpay · Cloudinary`
 
 > More on my [GitHub](https://github.com/rishabhhgit) — always shipping something new.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhhgit&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhgit&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhhgit&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always down to talk system design, AI tooling, or a good DSA problem.*
+
+</div>
