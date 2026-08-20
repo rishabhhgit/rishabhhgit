@@ -18,8 +18,7 @@ Real-time systems, geospatial visualizations, and backend architectures that don
 
 I like problems where geography, real-time data, and system design collide. Give me a live data feed and a map, and I'll find a way to make it fast, cached, and beautiful. Give me a backend, and I'll obsess over making it consistent, secure, and resilient.
 
-- 🌍 Currently deep into **geospatial + real-time systems**
-- 🏗️ Into distributed architecture, event-driven design, and shaving milliseconds off latency
+- 🏗️ Into distributed architecture, event-driven design, and reducing milliseconds off latency
 - 🧠 500+ problems deep on LeetCode — graphs, DP, trees, and everything in between
 - 🎯 Top 200 of 10,000+ on the GeeksforGeeks University Leaderboard
 - 🤝 Mentor students on DSA and interview prep at the Debugging Society
