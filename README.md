@@ -61,41 +61,22 @@ I like problems where real-time data, AI, and system design collide. Give me a l
 
 ### 🚀 Things I've built
 
-**[Gamma Code](https://github.com/rishabhhgit)** — an AI-powered desktop code editor built with Electron. Multi-model AI chat (Copilot, OpenAI, Anthropic, OpenRouter, Ollama, custom endpoints), with the AI able to read, write, and run code under permission gates. Ships with a Monaco-based editor, full PTY terminal, Git integration, session checkpoint/restore, and a custom agent + plugin system. Cross-platform on macOS, Windows, and Linux.
+**[Gamma Code](https://github.com/rishabhhgit/GammaCode)** — an AI-powered desktop code editor built with Electron. Multi-model AI chat (Copilot, OpenAI, Anthropic, OpenRouter, Ollama, custom endpoints), with the AI able to read, write, and run code under permission gates. Ships with a Monaco-based editor, full PTY terminal, Git integration, session checkpoint/restore, and a custom agent + plugin system. Cross-platform on macOS, Windows, and Linux.
 `React 19 · Vite · Electron · TypeScript · Turborepo · WebSocket · Zod`
 
-**[Virtual Workflow Builder](https://github.com/rishabhhgit)** — a visual, canvas-based workflow builder for AI and media pipelines. Drag-and-drop nodes (Text, Image/Video, LLM, Crop, Extract Frame), DAG validation, and run workflows either in-browser or as background jobs, with results tracked in a run history.
+**[Virtual Workflow Builder](https://github.com/rishabhhgit/Virtual-Workflow-Builder)** — a visual, canvas-based workflow builder for AI and media pipelines. Drag-and-drop nodes (Text, Image/Video, LLM, Crop, Extract Frame), DAG validation, and run workflows either in-browser or as background jobs, with results tracked in a run history.
 `Next.js · PostgreSQL · Clerk Auth · Trigger.dev · Google Gemini API`
 
-**[Eazeworkflow](https://github.com/rishabhhgit)** — a personal operating system for developer-creators: task manager with deep-work sessions, a daily coding log, a LeetCode tracker, an AI content generator that turns logs into tweets/threads/LinkedIn posts, a job pipeline tracker, and an income/expense tracker.
+**[Eazeworkflow](https://github.com/rishabhhgit/dev-EazeWorkflow)** — a personal operating system for developer-creators: task manager with deep-work sessions, a daily coding log, a LeetCode tracker, an AI content generator that turns logs into tweets/threads/LinkedIn posts, a job pipeline tracker, and an income/expense tracker.
 `React 18 · Vite · Tailwind · shadcn/ui · Node.js · Express · PostgreSQL · Gemini API · JWT`
 
-**[AeroTrack](https://github.com/rishabhhgit)** — a real-time flight intelligence platform tracking 6,500+ live aircraft across 30+ countries, with data latency cut from ~15s to <50ms via a multi-layer caching pipeline and async ingestion of 900+ map tiles.
+**[AeroTrack](https://github.com/rishabhhgit/AeroTrack)** — a real-time flight intelligence platform tracking 6,500+ live aircraft across 30+ countries, with data latency cut from ~15s to <50ms via a multi-layer caching pipeline and async ingestion of 900+ map tiles.
 `React · TypeScript · Node.js · Express · MapLibre GL · OpenSky API`
 
-**Distributed Banking Backend** — a ledger system built like it actually has to hold money: ACID transactions, serializable isolation, row-level locking, JWT + refresh rotation, TOTP 2FA, and an event-driven pipeline for audit logging and fraud monitoring.
+**[Distributed Banking Backend](https://github.com/rishabhhgit/banking-wallet-mvp)** — a ledger system built like it actually has to hold money: ACID transactions, serializable isolation, row-level locking, JWT + refresh rotation, TOTP 2FA, and an event-driven pipeline for audit logging and fraud monitoring.
 `TypeScript · Node.js · PostgreSQL · Prisma · Redis · BullMQ`
 
-**Scalable E-Commerce Platform** — full order lifecycle, payments via Razorpay, and a backend hardened against XSS and NoSQL injection, with indexing and caching to keep it fast under load.
+**[Scalable E-Commerce Platform**]()** — full order lifecycle, payments via Razorpay, and a backend hardened against XSS and NoSQL injection, with indexing and caching to keep it fast under load.
 `React · Node.js · Express · MongoDB · Redis · Razorpay · Cloudinary`
 
 > More on my [GitHub](https://github.com/rishabhhgit) — always shipping something new.
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhhgit&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhgit&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhhgit&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Always down to talk system design, AI tooling, or a good DSA problem.*
-
-</div>
