@@ -85,9 +85,6 @@ I like problems where real-time data, AI, and system design collide. Give me a l
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhhgit&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhgit&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhhgit&theme=tokyonight&hide_border=true)
 
 </div>
